@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Deploy
+dist/
+
+# Mongo y PostgreSQL
+mongo/
+postgres/
+
+# Environment variables
+.env
+
+# Logs
+.DS_Store
+logs/

@@ -1,0 +1,14 @@
+node_modules/
+
+coverage/
+dist/
+
+logs/
+
+.DS_Store
+
+.env
+
+keys/
+
+migrations/
